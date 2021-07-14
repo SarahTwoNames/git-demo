@@ -1,2 +1,0 @@
-.LOG
-This is the info file
